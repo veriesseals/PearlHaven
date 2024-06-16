@@ -1,6 +1,6 @@
-* {
+/* * {
     outline: 1px dotted red;
-}
+} */
 
 
 /* Google Fonts Roboto */
@@ -15,6 +15,11 @@
 /* Main Spash Image */
 /* ------------------------------------------------------------------------- */
 
-#splashImage {
-    background-color: #e9e6a9;
+/* #navMenu {
+    background-color: black;
+    
+} */
+
+#topHeader{
+    text-align: center;
 }
