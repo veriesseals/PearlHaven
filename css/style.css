@@ -20,12 +20,31 @@
     
 } */
 
-#topHeader{
+#topHeader {
     text-align: center;
 }
 
-#pearlHavenLogo{
+#pearlHavenLogo {
     margin: auto;
     text-align: center;
     padding: 10px;
+}
+
+#hoursOfOp {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+#contactUs {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Table */
+/* ------------------------------------------------------------------------- */
+
+#table {
+    margin: 0px 0px 0px 0px;
 }
